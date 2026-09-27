@@ -14,7 +14,7 @@
     "default-category.cellar-owned": "Sótano ({{owner}})",
     "default-category.cellar-unowned": "Sótano #{{cellarNumber}}",
     "default-category.farmhouse": "Casa de la granja",
-    "default-category.island-farmhouse": "Casa de ls isla",
+    "default-category.island-farmhouse": "Casa de la isla",
     "default-category.duplicate": "{{locationName}} #{{number}}",
 
     // edit-chest labels
