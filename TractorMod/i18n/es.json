@@ -263,6 +263,6 @@
     /*********
     ** Iconic Framework icon
     *********/
-    "icon.summon-tractor.name": "Tractor Mod",
+    "icon.summon-tractor.name": "Tractor Mod", //Mod del tractor
     "icon.summon-tractor.desc": "Invocar tractor"
 }
